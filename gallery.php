@@ -1,4 +1,9 @@
-<?php echo file_get_contents("html/header.html"); ?>
+<?php echo file_get_contents("html/header1.html"); ?>
+<date>
+<?php include("php/todaysDate.php") ?>
+</date>
+<?php echo file_get_contents("html/header2.html"); ?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -76,6 +81,8 @@ div.desc {
   <div class="desc">Joconde Sponge Cake by Cynthia Stewart</div>
 </div>
 
+
+
 <div class="gallery">
   
     <img src="images/7U0A6948.JPG " alt="Forest" width="600" height="400">
@@ -94,11 +101,48 @@ div.desc {
   
   <div class="desc">Joconde Sponge Cake by Lyenlle Something</div>
 </div>
-	
 
 </div>
 </div>
 
+
+
+
+<div class="wrapper row2">
+
+<div id="container" class="clear">
+
+<h1>Community</h1>
+
+<div class="gallery">
+
+    <img src="images/7U0A6728.JPG" alt="Cinque Terre" width="600" height="400">
+ 
+  <div class="desc">Goulash by Chef Bailey</div>
+</div>
+
+<div class="gallery">
+  
+    <img src="images/20190227_113947.jpg " alt="Forest" width="600" height="400">
+  
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+    <img src="images/20190212_120121.jpg" alt="Northern Lights" width="600" height="400">
+  
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+    <img src="images/20190220_104950.jpg" alt="Mountains" width="600" height="400">
+  
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+
+</div>
+</div>
 </body>
 </html>
 

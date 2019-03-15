@@ -1,4 +1,8 @@
-<?php echo file_get_contents("html/header.html"); ?>
+<?php echo file_get_contents("html/header1.html"); ?>
+<date>
+<?php include("php/todaysDate.php") ?>
+</date>
+<?php echo file_get_contents("html/header2.html"); ?>
 
 <!-- content -->
 <div class="wrapper row2">
@@ -14,7 +18,6 @@
           <h2>SIPI Cullinary Catering</h2>
           <p>We are here we are here we are here.</p>
 
-          <p>Visit our forums for comments and further help with your cooking adventures. <a href="#">Forum</a>.</p>
         </article>
 
         <!-- article 2 -->

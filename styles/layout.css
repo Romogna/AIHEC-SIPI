@@ -60,6 +60,7 @@ blockquote:after, q:after{content:' „'; font-size:26px; line-height:0;}
 
 form, fieldset, legend{margin:0; padding:0; border:none;}
 legend{display:none;}
+date{font-size:15px; float:right; padding-top:10px;}
 input, textarea, select{font-size:12px; font-family:Georgia,"Times New Roman",Times,serif;}
 
 .one_quarter, .two_quarter, .three_quarter, .four_quarter{display:block; float:left; margin:0 20px 0 0;}
@@ -82,7 +83,7 @@ input, textarea, select{font-size:12px; font-family:Georgia,"Times New Roman",Ti
 #header #hgroup{float:left; margin:0 0 20px 0;}
 #header #hgroup h1, #header #hgroup h2{font-weight:normal; font-style:normal; text-transform:none;}
 #header #hgroup h1{font-size:36px;}
-#header #hgroup h2{font-size:13px;}
+#header #hgroup h2{font-size:14px;}
 
 #header form{display:block; width:290px; float:right; margin:20px 0; padding:0;}
 #header form input{display:block; float:left; width:200px; margin:0; padding:5px; color:#C02228; background-color:#232323; border:1px solid #666666;}

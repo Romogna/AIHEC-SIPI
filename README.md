@@ -6,3 +6,5 @@ To view the website, download the files from the green Download button to downlo
 Extract the files from the zip by right clicking on the ZIP file in your downloads folder. 
 Once you have extracted the files, open AIHEC-SIPI-master then SIPI to find index.html 
 Right click on index.html and open it with Firefox or Chrome. 
+
+This method only works on the index.html. We have converted to index.php for the entirety of the website.

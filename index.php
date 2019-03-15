@@ -1,4 +1,8 @@
-<?php echo file_get_contents("html/header.html"); ?>
+<?php echo file_get_contents("html/header1.html"); ?>
+<date>
+<?php include("php/todaysDate.php") ?>
+</date>
+<?php echo file_get_contents("html/header2.html"); ?>
 
 <!-- content -->
 <div class="wrapper row2">

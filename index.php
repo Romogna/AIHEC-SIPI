@@ -35,9 +35,9 @@
         <article class="two_quarter lastbox">
           <figure>
             <ul class="clear">
-              <li><a href="#"><img src="images/demo/130x130.gif" width="130" height="130" alt=""></a></li>
-              <li><a href="#"><img src="images/demo/130x130.gif" width="130" height="130" alt=""></a></li>
-              <li class="last"><a href="#"><img src="images/demo/130x130.gif" width="130" height="130" alt=""></a></li>
+              <li><a href="#"><img src="images/7U0A6649.JPG" width="130" height="130" alt=""></a></li>
+              <li><a href="#"><img src="images/7U0A6952.JPG" width="130" height="130" alt=""></a></li>
+              <li class="last"><a href="#"><img src="images/7U0A6674.JPG" width="130" height="130" alt=""></a></li>
             </ul>
             <figcaption><a href="./gallery.php">View Our Image Gallery Here &raquo;</a></figcaption>
           </figure>

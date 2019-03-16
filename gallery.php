@@ -60,7 +60,7 @@ div.desc {
 </div>
 
 <div class="gallery">
-    <img src="images/20190220_104950.jpg" alt="Mountains" width="600" height="400">
+    <img src="images/crablegs.jpg" alt="Mountains" width="600" height="400">
   
   <div class="desc">Add a description of the image here</div>
 </div>
@@ -116,26 +116,26 @@ div.desc {
 
 <div class="gallery">
 
-    <img src="images/7U0A6728.JPG" alt="Cinque Terre" width="600" height="400">
+    <img src="images/7U0A6728.JPG" width="600" height="400">
  
   <div class="desc">Goulash by Chef Bailey</div>
 </div>
 
 <div class="gallery">
   
-    <img src="images/20190227_113947.jpg " alt="Forest" width="600" height="400">
+    <img src="images/7U0A6766.JPG" width="600" height="400">
   
   <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
-    <img src="images/20190212_120121.jpg" alt="Northern Lights" width="600" height="400">
+    <img src="images/7U0A6674.JPG" width="600" height="400">
   
   <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
-    <img src="images/20190220_104950.jpg" alt="Mountains" width="600" height="400">
+    <img src="images/7U0A6833.JPG " width="600" height="400">
   
   <div class="desc">Add a description of the image here</div>
 </div>

@@ -3,6 +3,7 @@
 <?php include("php/todaysDate.php") ?>
 </date>
 <?php echo file_get_contents("html/header2.html"); ?>
+<head>
 
 <style>
 div.gallery {
@@ -20,6 +21,7 @@ div.gallery img {
 }
  
 </style>
+</head>
 
 <!-- content -->
 <div class="wrapper row2">
@@ -70,7 +72,6 @@ div.gallery img {
 <h2>Vision Statement</h2>
 <p>The Vision of the culinary arts program at Southwestern Indian Polytechnic Institute is to seek accreditation through the American Culinary Federation Educational Foundation (ACFEF). The Culinary Arts program will work towards becoming the premiere Native American culinary arts training program within the federal Government.</p>
 
-          <p>Visit our forums for comments and further help with your cooking adventures. <a href="#">Forum</a>.</p>
         </article>
 
 

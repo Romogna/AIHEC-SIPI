@@ -35,15 +35,15 @@ div.gallery img {
 
 <div class="gallery">
 
-    <img src="images/7U0A6649.JPG" alt="Cinque Terre" width="300" height="200">
+    <img src="images/7U0A6600.JPG" width="300" height="200">
  
 
 <br><br>
   
-    <img src="images/20190227_113947.jpg " alt="Forest" width="300" height="200">
+    <img src="images/7U0A6695.JPG" width="300" height="200">
   
 <br><br>
-    <img src="images/20190212_120121.jpg" alt="Northern Lights" width="300" height="200">
+    <img src="images/7U0A6750.JPG" width="300" height="200">
   
 
 </div>

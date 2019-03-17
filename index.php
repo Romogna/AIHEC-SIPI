@@ -8,8 +8,21 @@
 <div class="wrapper row2">
   <div id="container" class="clear">
 
+
+
+<!-- What we DO-->
+	 <figure>
+            <img src="images/7U0A6742.JPG" width="350" height="225" align= "right">
+          </figure>
+
+   <article class="two_quarter">
+          <h2>Welcome to Bailey's Kitchen!</h2>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dictum imperdiet pulvinar. Suspendisse justo mauris, efficitur consectetur eleifend sed, hendrerit a odio. Aenean molestie eros dignissim, auctor turpis in, pretium nulla. Suspendisse nec nibh mollis felis pulvinar tempor. In eget odio a ante cursus vulputate vestibulum in neque. Vivamus feugiat nisl quis euismod ullamcorper. Suspendisse blandit, orci sed ultricies hendrerit, felis ex pretium sem, ac tincidunt ipsum libero a dolor. Vivamus dignissim tortor a nulla porttitor suscipit. In vestibulum interdum pretium. Suspendisse fermentum, ex tincidunt finibus efficitur, libero enim tempus risus, id consectetur velit sem in lacus. Aliquam imperdiet pellentesque nisi eu tristique. Curabitur risus mauris, rutrum a euismod eget, laoreet et lacus. Curabitur iaculis urna in nunc faucibus tincidunt. Nunc vitae risus et nisi vehicula consectet.</p>
+         
+        </article>
     <!-- Slider -->
     <section id="slider" class="clear">
+     <h2>Our Services</h2> <br><br>
       <figure><img src="images/7U0A6641.JPG" alt="">
         <figcaption>
           <h2>Try our Recipe Calculator!</h2>

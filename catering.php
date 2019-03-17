@@ -9,10 +9,13 @@
 
     <div id="intro">
       <section class="clear">
-        <h1>This is the Proving Grounds</h1>
+        <h1>Catering for the month of March 2019</h1>
+<br><br>
+     <figure>
+      <img src="images/calendar.JPG" width="1000" height="600" align= "center" alt="">         
+     </figure>
       </section>
     </div>
-
   </div>
 </div>
 

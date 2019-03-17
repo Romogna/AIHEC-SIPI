@@ -1,4 +1,3 @@
-
 <?php
 $con = mysql_connect("localhost","norm","Dorwasps1!");
 if ( ! $con) {
@@ -16,4 +15,4 @@ mysql_close($con)
 ?>
 
 
- 
+

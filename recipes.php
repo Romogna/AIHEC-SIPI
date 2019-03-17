@@ -16,7 +16,7 @@
         <!-- article 1 -->
         <article class="two_quarter">
           <h2>Recipe Calculator</h2>
-          <p>We provide a basic recipe calculator to determin the general yield of a custom recipe cr4eated by you!</p>
+          <p>We provide a basic recipe calculator to determin the proportions of your meal to create a perfect yield for your every event. Simply choose a recipe and specify your number of guests.  </p>
          
         </article>
 
@@ -32,7 +32,7 @@
         <!-- article 2 -->
         <article class="two_quarter">
          
- <p>Visit our forums for comments and further help with your cooking adventures. <a href="#">Forum</a>.</p>
+ <p>Visit our comment card for further help with your cooking adventures. <a href="./forum.php">Comment Card</a>.</p>
         </article>
       </section>
 

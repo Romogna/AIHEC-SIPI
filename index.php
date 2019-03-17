@@ -17,31 +17,26 @@
 
    <article class="two_quarter">
           <h2>Welcome to Bailey's Kitchen!</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dictum imperdiet pulvinar. Suspendisse justo mauris, efficitur consectetur eleifend sed, hendrerit a odio. Aenean molestie eros dignissim, auctor turpis in, pretium nulla. Suspendisse nec nibh mollis felis pulvinar tempor. In eget odio a ante cursus vulputate vestibulum in neque. Vivamus feugiat nisl quis euismod ullamcorper. Suspendisse blandit, orci sed ultricies hendrerit, felis ex pretium sem, ac tincidunt ipsum libero a dolor. Vivamus dignissim tortor a nulla porttitor suscipit. In vestibulum interdum pretium. Suspendisse fermentum, ex tincidunt finibus efficitur, libero enim tempus risus, id consectetur velit sem in lacus. Aliquam imperdiet pellentesque nisi eu tristique. Curabitur risus mauris, rutrum a euismod eget, laoreet et lacus. Curabitur iaculis urna in nunc faucibus tincidunt. Nunc vitae risus et nisi vehicula consectet.</p>
+          <p>Bailey's Kitchen has built their reputation upon an uncompromising passion for culinary excellence, matched by an unprecedented dedication to service.
+We compliment every occasion with unforgettable meals and unparalleled service, prepared from scratch by our eager students, and infinitely customizable to meet every palette, including those with special dietary needs and restrictions.
+We will work directly with you or your event coordinator to ensure that every detail is accounted for so that you and your guests can enjoy your time together while our full-service catering staff handles the details.
+Continue exploring the site to learn more about our menu, event catering services, and to see images of our dedicated students and their work, or fill out a Comment Card to arrange a consultation with one of our helpful associates. </p>
          
         </article>
-    <!-- Slider -->
-    <section id="slider" class="clear">
-     <h2>Our Services</h2> <br><br>
-      <figure><img src="images/7U0A6641.JPG" alt="">
-        <figcaption>
-          <h2>Try our Recipe Calculator!</h2>
-          <p>Our recipe calculator allow you to make perfectly sized proportions of any of our recipes we provide.</p>
-          <footer class="more"><a href="./recepies.php">Try it out! &raquo;</a></footer>
-        </figcaption>
-      </figure>
-    </section>
 
     <!-- main content -->
     <div id="intro">
       <section class="clear">
 
         <!-- article 1 -->
-        <article class="two_quarter">
-          <h2>Catering Services</h2>
-          <p>We provice food catering to any event in the Albuquerque Area. To schedule an event please use the following link <a href="./catering.php">Catering</a>.</p>
 
-          <p>Visit our forums for comments and further help with your cooking adventures. <a href="./fourm.php">Forum</a>.</p>
+<br><br>
+        <article class="two_quarter">
+
+          <h2>Catering Services</h2>
+          <p>We provice food catering to any event in the Albuquerque Area. To view all upcoming events please use the following link <a href="./catering.php">Catering</a>.</p>
+
+
         </article>
 
         <!-- article 2 -->
@@ -55,6 +50,19 @@
             <figcaption><a href="./gallery.php">View Our Image Gallery Here &raquo;</a></figcaption>
           </figure>
         </article>
+
+<br><br>
+   <!-- Slider -->
+    <section id="slider" class="clear">
+    <br><br>
+      <figure><img src="images/7U0A6641.JPG" alt="">
+        <figcaption>
+          <h2>Try our Recipe Calculator!</h2>
+          <p>Our recipe calculator allow you to make perfectly sized proportions of any of our recipes we provide.</p>
+          <footer class="more"><a href="./recipes.php">Try it out! &raquo;</a></footer>
+        </figcaption>
+      </figure>
+    </section>
       </section>
     </div>
 

@@ -8,7 +8,7 @@ Licence: <a href="https://www.os-templates.com/template-terms">Website Template 
 
 html{overflow-y:scroll;} /* Forces a scrollbar when the viewport is larger than the websites content - CSS3 */
 
-body{margin:0; padding:0; font-size:13px; font-family:Georgia, "Times New Roman", Times, serif; color:#C02228; background-color:#232323;}
+body{margin:0; padding:0; font-size:16px; font-family:Georgia, "Times New Roman", Times, serif; color:#C02228; background-color:#232323;}
 
 .clear:after{content:"."; display:block; height:0; clear:both; visibility:hidden; line-height:0;}
 .clear{display:block; clear:both;}
@@ -39,7 +39,7 @@ q:after{content:' „'; font-size:26px; line-height:0;}
 
 div.wrapper{display:block; width:100%; margin:0; padding:0; text-align:left;}
 
-.row1, .row1 a{color:#000; background-color:#C02228;}
+.row1, .row1 a{color:#000; background-color:#b9936c;}
 .row2{color:#979797; background-color:#FFF;}
 .row2 a{color:#FF9900; background-color:#FFFFFF;}
 .row3, .row3 a{color:#919191; background-color:#1CB5CB;}
@@ -89,12 +89,12 @@ input, textarea, select{font-size:12px; font-family:Georgia,"Times New Roman",Ti
 #header form input{display:block; float:left; width:200px; margin:0; padding:5px; color:#C02228; background-color:#232323; border:1px solid #666666;}
 #header form #sf_submit{display:block; float:right; width:70px; font-size:12px; font-weight:bold; text-transform:uppercase; color:#FFFFFF; background-color:#FF9900; border:none; cursor:pointer;}
 
-#header nav{display:block; width:100%; margin:0; padding:20px 0; color:#C0BAB6; background-color:#232323; clear:both;}
+#header nav{display:block; width:100%; margin:0; padding:20px 0; color:#C0BAB6; background-color:#c4b7a6; clear:both;}
 #header nav ul{padding:0 20px;}
 #header nav li{display:inline; margin-right:25px; text-transform:uppercase;}
 #header nav li.last{margin-right:0;}
-#header nav li a{color:#C0BAB6; background-color:#232323;}
-#header nav li a:hover{color:#FF9900; background-color:#232323;}
+#header nav li a{color:#232323; background-color:#c4b7a6;}
+#header nav li a:hover{color:#1CB5CB; background-color:#c4b7a6;}
 
 /*----------------------------------------------Content Area-------------------------------------*/
 
